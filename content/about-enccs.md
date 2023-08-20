@@ -84,7 +84,7 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 
 ### ENCCS audience
 
-Similarly to CodeRefinery, ENCCS targets **competent practitioners**: participants are assumed 
+Similarly to CodeRefinery, ENCCS primarily targets **competent practitioners** in training workshops: participants are assumed 
 to know what their needs are. Typically, their needs are to learn a technique or method to adapt 
 their code to HPC, to learn novel programming languages or frameworks, or to deepen their knowledge 
 of machine learning methods.
@@ -150,4 +150,5 @@ Which of these practices do you use in your teaching? Vote by adding "o".
 
 ## See also
 
-- [Active Learning Leads to Higher Grades and Fewer Failing Students in Science, Math, and Engineering](https://www.wired.com/2014/05/empzeal-active-learning/)
+- [Active learning increases student performance in
+science, engineering, and mathematics](https://www.pnas.org/doi/pdf/10.1073/pnas.1319030111)
