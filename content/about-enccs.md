@@ -13,7 +13,7 @@ Our mission is to empower Swedish industry, academia and the public sector to le
 ![ENCCS pillars](img/about_enccs.png)
 
 Training is one of the main pillars of ENCCS' activities. We have developed a large amount of 
-public and open source [lesson material](https://enccs.se/lessons/) and have taught over 45 
+public and open source [lesson material](https://enccs.se/lessons/) and have organised, taught or contributed to over 60 
 online workshops since September 2020. 
 Our training philosophy and methods are to a large extent derived from two well established 
 educational initiatives: [CodeRefinery](https://coderefinery.org/) and [The Carpentries](https://carpentries.org/). The material presented here covers both pedagogical ideas and practical 
@@ -24,7 +24,11 @@ workshops and the teaching itself.
 ---
 
 ## The Carpentries
- 
+
+```{figure} img/TheCarpentries.png
+:width: 80%
+```
+
 [The Carpentries](https://carpentries.org/) is an international project that comprises [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/), 
 communities of instructors, trainers, maintainers, helpers, and supporters who share a mission to 
 teach foundational computational and data science skills to researchers. The Carpentries teach 
@@ -32,7 +36,7 @@ foundational coding and data science skills to researchers worldwide.
 
 ### Carpentry instructor training
 
-ENCCS instructors are encouraced to complete the
+ENCCS instructors are encouraged to complete the
 [Carpentry instructor training workshop](https://carpentries.github.io/instructor-training/), which
 [anyone can apply for](https://carpentries.org/become-instructor/).
 
@@ -55,6 +59,10 @@ By showing learners how to solve specific problems with specific tools and provi
 ---
 
 ## CodeRefinery
+
+```{figure} img/logo-color-3d-cropped.png
+:width: 50%
+```
 
 [CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
 The main goals of CodeRefinery are:
