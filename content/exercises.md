@@ -51,7 +51,7 @@ Delivery Opportunities for Growth
 - We organize the breakout rooms to not only discuss one lesson/topic so that it is more interesting
   to listen and also probably we will all get more useful feedback.
 - Give each other **constructive verbal feedback** on the teaching demos
-  using [this demo rubric](https://carpentries.github.io/instructor-training/demos_rubric/).
+  using [this demo rubric](https://carpentries.github.io/instructor-training/demos_rubric.html).
 - Write down questions (in the collaborative document) that you would like to
   discuss in the main room or interesting conclusions which you would like to
   share with others.
