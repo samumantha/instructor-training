@@ -21,22 +21,17 @@ Agre](https://www.librarian.net/stax/4965/how-to-help-someone-use-a-computer-by-
 Summary: Most of our teaching challenge is helping people to overcome bad user
 interface design.
 
+---
 
-## Browse an ENCCS lesson (5 min)
+## Prepare a short teaching demo (20 min)
 
-Please take 5 minutes and go through an [ENCCS
-lesson](https://enccs.se/lessons/) and understand the general
-layout.  Don't go in-depth to any of the material (unless you want,
-obviously). 
+Think about a topic that you know well, that you've taught before, or that you want to teach in the future. Think about a hands-on approach to how to teach it and prepare a 3-5 minute demo. It's good if the demo is based on a sequence of steps that you prepare and explain during the demo. 
 
-You can for example go through one of the following lessons:
-- [SYCL](https://enccs.github.io/sycl-workshop/)
-- [Julia for HPC](https://enccs.github.io/julia-for-hpc/)
-- [CMake](https://enccs.github.io/cmake-workshop/)
-- [Python for HPDA](https://enccs.github.io/hpda-python/)
-- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
-- [CUDA](https://enccs.github.io/cuda/)
+During the instructor training workshop you will be asked to teach this topic to a small group of other participants and receive feedback. Your 3-5 minute demo does not need to be complete; it's fine if you only include the initial steps of a larger thing.
 
+Since this workshop is focused on teaching technical topics, it helps if your topic is also technical and involves showing shell commands, programming constructs or similar. But it can also involve navigating a graphical user interface (GUI) or using some computational tool. 
+
+---
 
 ## Read "The science of learning" (20 min)
 
@@ -50,6 +45,23 @@ workshops.
 > ## Remark
 >
 > Don't worry if there are sections you do not understand. The main objective
-> is to have a baseline for our discussions, not to check your ability to teach
-> the lesson during the instructor training workshop.
+> is to have a baseline for our discussions during the instructor training workshop.
 {: .callout}
+
+---
+
+## Browse an ENCCS lesson (5 min)
+
+Take 5 minutes and go through an [ENCCS
+lesson](https://enccs.se/lessons/) and understand the general
+layout.  Don't go in-depth to any of the material (unless you want,
+obviously). 
+
+You can for example go through one of the following lessons:
+- [SYCL](https://enccs.github.io/sycl-workshop/)
+- [Julia for HPC](https://enccs.github.io/julia-for-hpc/)
+- [CMake](https://enccs.github.io/cmake-workshop/)
+- [Python for HPDA](https://enccs.github.io/hpda-python/)
+- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
+- [CUDA](https://enccs.github.io/cuda/)
+
