@@ -62,7 +62,7 @@ so they do not all conform equally well to the recommendations presented in this
 
 ## Programming languages
 
-**[High-performance Data Analytics with Python](https://enccs.github.io/HPDA-Python/)**
+**[High-performance Data Analytics with Python](https://enccs.github.io/hpda-python/)**
 
 - Have a good overview of available tools and libraries for improving performance in Python
 - Know what libraries are available for efficiently storing, reading and writing large data
@@ -77,7 +77,7 @@ so they do not all conform equally well to the recommendations presented in this
 - Remember key hardware differences between CPUs and GPUs
 - Be able to create simple GPU kernels with Numba
 
-**[Julia for High Performance Scientific Computing](https://enccs.github.io/Julia-for-HPC/)**
+**[Julia for High Performance Scientific Computing](https://enccs.github.io/julia-for-hpc/)**
 
 - Experienced practitioners in other languages understand what's different/special about Julia
 - Become familiar with typical structure of a Julia package
@@ -185,7 +185,7 @@ so they do not all conform equally well to the recommendations presented in this
 
 ## Quantum computing
 
-**[Introduction to Quantum Computing and hybrid HPC-QC systems](https://enccs.github.io/NordIQuEst-workshop/)**
+**[Introduction to Quantum Computing and hybrid HPC-QC systems](https://enccs.github.io/nordiquest-workshop/)**
 
 - Learn key concepts: quantum states, qubits, quantum algorithms
 - Get an overview of QC programming in high-level languages for use cases in optimisation, finance and quantum chemistry 

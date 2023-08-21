@@ -31,11 +31,11 @@ obviously).
 
 You can for example go through one of the following lessons:
 - [SYCL](https://enccs.github.io/sycl-workshop/)
-- [Julia for HPC](https://enccs.github.io/Julia-for-HPC/)
+- [Julia for HPC](https://enccs.github.io/julia-for-hpc/)
 - [CMake](https://enccs.github.io/cmake-workshop/)
-- [Python for HPDA](https://enccs.github.io/HPDA-Python/)
+- [Python for HPDA](https://enccs.github.io/hpda-python/)
 - [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
-- [CUDA](https://enccs.github.io/CUDA/)
+- [CUDA](https://enccs.github.io/cuda/)
 
 
 ## Read "The science of learning" (20 min)
