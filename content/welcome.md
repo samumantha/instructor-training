@@ -86,7 +86,7 @@ Before commencing the walkthrough of this instructor training material, we will 
 
 - In groups of two, take turns to "teach" a topic close to your heart to your collaborator. This can be a topic you know well, that you've taught before, or that you want to teach in the future.
 - Keep it short, around 3-5 minutes. Try to be concrete and hands-on. It can involve shell commands, programming, navigating a graphical user interface or using a computational tool.
-- The other person listens and optionally tries to type along (if relevant) 
+- The other person listens and optionally tries to type along (if relevant). 
 - The listener then provides feedback on the teaching. What went well, what could be improved?
 - Now swap roles and repeat.
 ```
