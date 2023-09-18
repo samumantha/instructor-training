@@ -33,9 +33,10 @@ After attending this workshop, learners should:
 
 | Time | Episode | Teaching/interaction, min |
 | ---- | ------- | ------------------------- |
-| 09:00 - 09:40 | Welcome and introduction |10 +  30| 
-| 09:40 - 09:55 | ENCCS training |10 +  5| 
-| 09:55 - 10:10 | ENCCS lessons |10 +  5| 
+| 09:00 - 09:10 | Welcome and introduction |10| 
+| 09:10 - 09:25 | Training providers |10 +  5| 
+| 09:25 - 09:40 | Available lessons |10 +  5| 
+| 09:40 - 10:10 | Available lessons |0 + 30| 
 | 10:10 - 10:25 | Break |  |
 | 10:25 - 11:10 | Acquisition of skill |20 +  25| 
 | 11:10 - 11:20 | Break |  |
