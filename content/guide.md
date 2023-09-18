@@ -36,7 +36,7 @@ After attending this workshop, learners should:
 | 09:00 - 09:10 | Welcome and introduction |10| 
 | 09:10 - 09:25 | Training providers |10 +  5| 
 | 09:25 - 09:40 | Available lessons |10 +  5| 
-| 09:40 - 10:10 | Available lessons |0 + 30| 
+| 09:40 - 10:10 | First teaching practice |0 + 30| 
 | 10:10 - 10:25 | Break |  |
 | 10:25 - 11:10 | Acquisition of skill |20 +  25| 
 | 11:10 - 11:20 | Break |  |
