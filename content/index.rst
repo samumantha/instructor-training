@@ -87,6 +87,12 @@ After attending a workshop covering this material, learners should:
    quick-reference
    guide
 
+.. toctree::
+   :maxdepth: 1
+   :caption: Reference
+
+   All lessons <https://enccs.se/lessons/>
+   ENCCS <https://enccs.se/>
 
 .. _learner-personas:
 
