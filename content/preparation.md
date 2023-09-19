@@ -33,7 +33,25 @@ Since this workshop is focused on teaching technical topics, it helps if your to
 
 ---
 
-## Read "The science of learning" (20 min)
+## Browse an ENCCS lesson (5 min)
+
+Take 5 minutes and go through an [ENCCS
+lesson](https://enccs.se/lessons/) and understand the general
+layout.  Don't go in-depth to any of the material (unless you want,
+obviously). 
+
+You can for example go through one of the following lessons:
+- [SYCL](https://enccs.github.io/sycl-workshop/)
+- [GPU Programming: Why, When and How?](https://enccs.github.io/gpu-programming/)
+- [Julia for HPC](https://enccs.github.io/julia-for-hpc/)
+- [CMake](https://enccs.github.io/cmake-workshop/)
+- [Python for HPDA](https://enccs.github.io/hpda-python/)
+- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
+- [CUDA](https://enccs.github.io/cuda/)
+
+---
+
+## (Optional) Read "The science of learning" (20 min)
 
 Read this short paper [The Science of
 Learning](https://carpentries.github.io/instructor-training/files/papers/science-of-learning-2015.pdf)
@@ -48,20 +66,4 @@ workshops.
 > is to have a baseline for our discussions during the instructor training workshop.
 {: .callout}
 
----
-
-## Browse an ENCCS lesson (5 min)
-
-Take 5 minutes and go through an [ENCCS
-lesson](https://enccs.se/lessons/) and understand the general
-layout.  Don't go in-depth to any of the material (unless you want,
-obviously). 
-
-You can for example go through one of the following lessons:
-- [SYCL](https://enccs.github.io/sycl-workshop/)
-- [Julia for HPC](https://enccs.github.io/julia-for-hpc/)
-- [CMake](https://enccs.github.io/cmake-workshop/)
-- [Python for HPDA](https://enccs.github.io/hpda-python/)
-- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
-- [CUDA](https://enccs.github.io/cuda/)
 

@@ -1,5 +1,5 @@
-ENCCS instructor training
-=========================
+Best Practices in HPC Training
+==============================
 
 This ENCCS instructor training material is focused on helping competent practitioners
 and experts teach their knowledge to others. It also serves a
