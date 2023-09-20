@@ -26,15 +26,6 @@ through distinct stages through practice and formal instruction. In simplified f
 
 ![Novice, Competent Practitioner, Expert](img/skill-level.png)
 
--   *Novice*: someone who doesn't know what they don't know, i.e.,
-    they don't yet know what the key ideas in the domain are or how they relate.
-    One sign that someone is a novice is that their questions are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)".
--   *Competent practitioner*: someone who has enough understanding for everyday purposes. 
-    They won't know all the details of how something works and their understanding may not
-    be entirely accurate, but it is sufficient for completing normal tasks with normal 
-    effort under normal circumstances.
--   *Expert*: someone who can easily handle situations that are out of the ordinary.
-
 Participants in ENCCS workshops are usually *competent practitioners*. They already write 
 code and know what additional tools or techniques they need to learn to accomplish their goals.
 
@@ -58,7 +49,7 @@ A long-time European resident may have an
 advanced understanding of the location of European countries, major cities and landmarks, weather patterns, regional economies and demographic patterns, as well as the relationships 
 among these, compared with their understanding of these relationships for other countries. 
 In other words, their mental model of Europe is more complex compared with their mental model 
-of other countries.
+of other continents.
 ```
 
 ![Mental Models](img/mental_models.png)
@@ -66,7 +57,7 @@ of other countries.
 We can distinguish between a *novice* and a *competent practitioner* for a given domain based 
 on the complexity of their mental models.
 
-- **A *novice*** has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar.
+- **A *novice*** has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar. One sign that someone is a novice is that their questions are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)".
 - **A *competent*** practitioner has a mental model that is useful for everyday purposes. Most new information they are likely to encounter will fit well with their existing model. Even though many potential elements of their mental model may still be missing or wrong, predictions about their area of work are usually accurate.
 - **An *expert*** has a densely populated and connected mental model that is especially good for problem solving. They quickly connect concepts that others may not see as being related. They may have difficulty explaining how they are thinking in ways that do not rely on other features unique to their own mental model.
 
