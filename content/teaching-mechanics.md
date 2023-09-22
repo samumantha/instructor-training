@@ -270,6 +270,38 @@ Things that don't work (are not team teaching):
 
 ---
 
+## Workshop host and facilitator
+
+[Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational)) is a process for **helping
+other people dealing with a process or reach an agreement or solution** - without getting directly involved in 
+the process, discussion, etc. oneself. It can also bee seen as the art of **moving a group of people through 
+meetings, planning sessions, or training, and successfully achieving a specific goal**.
+
+Since training workshops are often delivered by multiple trainers, exercise leaders and helpers, it can be 
+extremely valuable to have a *workshop host* who engages in facilitation activities throughout the workshop.
+This can include:
+- Providing a general introduction, welcome and description of the code of conduct at the beginning - setting the stage for a successful workshop.
+- Introduce all trainers and other contributors.
+- Introduce an ice-breaking activity to engage participants and establish a friendly and collaborative environment.
+- Give framing at the start of each section of the workshop and hand over the word to the relevant trainer.
+- Be observant to raised hands or other reactions in the audience, potential technical issues (poor audio, too small font size) and be prepared to jump in to raise issues to the trainer or invite questions.
+- Pay attention to the pace and quality of the training, and be prepared to ask for improvements in a welcoming way:
+  - "I think this section was probably very complicated for most of our participants, would you mind going back and explaining again how you did X?"
+  - "Sorry for interrupting, but this might be going too fast for those of us with limited background knowledge on this topic. Could you go a little slower?"
+- Make sure that there is at least a 10 minute break every hour. Encourage participants to stand up, stretch their legs, grab some water or hot drink.
+- Update shared workshop document with information about the structure of the workshop - add instructions for exercises and how long they'll last, how long the breaks last, add headings from training material to remind learners where we are, etc.
+- Make sure that questions in shared workshop document are answered, either by text by trainers not currently teaching, or by interrupting the trainer. 
+- Give frequent "meta talk" in between sessions to help learners connect the teaching with the workshop structure.
+- Be the voice of the audience - pointing out when something was difficult, when something didn't work well, what a commonly encountered challenge might be etc.
+- Moderate discussions, tactfully interrupting dialogues that become too advanced or off-topic, and make sure that everyone gets heard. 
+- Invite and encourage questions, asking questions oneself to lower the barrier (but don't ask advanced questions!).
+- Invite anonymous feedback in the shared workshop document.
+
+Workshop hosts engaging in these facilitation activities can thus provide the glue to tie all components of a 
+workshop together, making the workshop feel more cohesive, inclusive, meaningful and enjoyable.
+
+
+---
 
 ## See also
 
