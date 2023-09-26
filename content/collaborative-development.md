@@ -36,6 +36,7 @@ Why static sites?
   - Example: this lesson
   - Starting point: [sphinx-lesson](https://github.com/coderefinery/sphinx-lesson)
   - [Documentation](https://coderefinery.github.io/sphinx-lesson/)
+  - Supports source files in Markdown, restructured text (RST) and Jupyter notebooks
 - Templates can be freely re-used
 
 
