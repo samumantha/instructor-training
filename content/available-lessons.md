@@ -21,14 +21,14 @@ so they do not all conform equally well to the recommendations presented in this
 - Understand OpenMP's shared parallel model and program execution model
 - Learn how to use basic OpenMP directives and clauses
 
-**[OpenACC](https://enccs.github.io/OpenACC/)**
+**[OpenACC](https://enccs.github.io/openacc/)**
 
 - Get an overview of the architecture of GPU and how they differ from CPUs
 - Understand how OpenACC fits into the landscape of GPU programming approaches
 - Understand OpenACC's shared parallel model and program execution model
 - Learn how to use basic OpenACC directives and clauses
 
-**[Intermediate CUDA](https://enccs.github.io/CUDA/)**
+**[Intermediate CUDA](https://enccs.github.io/cuda/)**
 
 - Get an overview of the architecture of GPU and how they differ from CPUs
 - Understand GPU concepts like threads, blocks and streaming multiprocessors 
