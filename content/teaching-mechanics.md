@@ -199,7 +199,12 @@ Some features of HackMD and how it compares to other modes of communication:
 - With too few people, it can turn out to be very quiet.
 - Example: [https://hackmd.io/@enccs/dl-intro-feb2022](https://hackmd.io/@enccs/dl-intro-feb2022)
 
-```{callout} Breaking the ice
+```{callout}
+If you're able to self-host a lightweight virtual machine, you might want to consider [HedgeDoc](https://hedgedoc.org/) instead.
+```
+
+
+### Breaking the ice
 A shared workshop document is useful to get learners engaged in a workshop from the start, 
 and also for breaking down social barriers and facilitating networking in groups.
 
@@ -207,7 +212,6 @@ Some strategies for icebreaker questions:
 - Use both social and scientific/professional icebreaker sessions.
 - Have breakout rooms in small groups to complete a small social task, multiple times with new groups.
 - Alternatively, start every day with an icebreaking activity in new breakout rooms to be used that day.
-```
 
 ---
 
@@ -229,7 +233,7 @@ work together for this? Team teaching idea:
    Wikipedia: Co-teaching or team teaching is the division of labor
    between educators to plan, organize, instruct and make assessments
    on the same group of students, generally in the a common
-   classroom,[1] and often with a strong focus on those teaching as a
+   classroom, and often with a strong focus on those teaching as a
    team complementing one another's particular skills or other
    strengths.
 ```
@@ -274,7 +278,7 @@ Things that don't work (are not team teaching):
 
 [Facilitation](https://en.wikipedia.org/wiki/Facilitation_(organisational)) is a process for **helping
 other people dealing with a process or reach an agreement or solution** - without getting directly involved in 
-the process, discussion, etc. oneself. It can also bee seen as the art of **moving a group of people through 
+the process, discussion, etc. oneself. It can also be seen as the art of **moving a group of people through 
 meetings, planning sessions, or training, and successfully achieving a specific goal**.
 
 Since training workshops are often delivered by multiple trainers, exercise leaders and helpers, it can be 
