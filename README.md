@@ -1,1 +1,1 @@
-# CodeRefinery instructor training lesson
+# ENCCS-maintained instructor training lesson
