@@ -137,21 +137,24 @@ course.
 
 ````{challenge} What are the top issues new instructors face? (10 minutes)
 Brainstorm about what issues new teachers/instructors might face in interactive workshops.
-Write down your thoughts in the shared document.
+Answer a **poll**: which suggested common issues seem important to you?
+Do you have another, not-mentioned examples? (You may write them down in the shared document.)
  
 ```{solution} Some suggestions
-Addressing participant issues:
+
+Addressing participants
  -  Get the speed correct: not too fast and not (far) too slow. 
  -  Don't make exercise sessions too short to "save time". Better to have them as long as possible.
- -  Don't expect too much of learners during exercises - just reading and understanding the task takes time.
- -  Cater to participants with different backgrounds and at different levels of experience.
+ -  Don't expect too much of learners during exercises; just reading and understanding the task takes time.
+ -  Cater to participants with different backgrounds and different levels of experience.
  -  Learners may not have software prerequisites installed correctly and thus not able to follow along.
- Instructor mistakes:
- -  Trying to accomplish too much or go through everything - it's OK to cut out and adapt to the audience. 
+
+Instructor mistakes
+ -  Trying to accomplish too much or go through everything. It's OK to cut out and adapt to the audience! 
  -  Explaining *how*, but not *why*.
- -  Not using good screen sharing practices (font size, terminal history, portion of screen)
+ -  Not using good screen sharing practices (font size, terminal history, portion of screen).
  -  Assuming learners remember everything you've covered earlier in a workshop.
- -  Forgetting to take sufficiently many breaks (minimum 10 minutes per hour)
+ -  Forgetting to take sufficient breaks (min. 10 minutes per hour).
 ```
 ````
 
@@ -217,7 +220,7 @@ Here are a few things you should not do in your workshop:
   limitations of your knowledge, and will be more likely to ask questions and seek help. 
 - Use the J word ("just") or other demotivating words. Experts sometimes want to convey that 
   a task is as easy as they think it is, but these signal to the learner that the instructor thinks 
-  their problem is trivial
+  their problem is trivial.
 - Take over the learner's keyboard. It is rarely a good idea to type anything for your learners. 
   Doing so can be demotivating for the learner (as it implies you don't think they can do it themselves or that you don't want to wait for them). It also wastes a valuable opportunity for your learner to develop muscle memory and other skills that are essential for independent work.
 - Express surprise at unawareness. Saying things like "I can’t believe you don’t know X" or "You’ve 
@@ -257,7 +260,7 @@ This exercise highlights some typical pitfalls that most instructors
 fall into sooner or later, and also shows how to avoid them.
 Watch closely since we will be giving feedback!
 - Watch these two videos: [video 1](https://youtu.be/bXxBeNkKmJE) and
-  [video 2](https://youtu.be/SkPmwe_WjeY)
+  [video 2](https://youtu.be/SkPmwe_WjeY).
 - What was better in video 1 and what was better in video 2?
 - Please give feedback in the shared workshop document in the 2x2 rubric.
 
