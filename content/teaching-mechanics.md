@@ -13,11 +13,11 @@
 ## Online vs in-person workshops
 
 Challenges:
-- More difficult for learners to stay focused during for a full day - "Zoom fatigue".
+- More difficult for learners to stay focused for a full day ("Zoom fatigue").
 - More confusion and cognitive overload from watching and listening to instructor while typing 
   along or solving exercises.
 - Networking and socialisation is much more difficult.
-- Group work takes more effort to prepare to encourage interaction between learners
+- Group work takes more effort to prepare, to encourage interaction between learners.
 - Learners more often stay quiet.
 - Signaling problems or asking questions is more difficult.
 - Awkwardness during silences or when multiple people start talking at the same time.
@@ -40,9 +40,9 @@ Write down your suggestions in the shared workshop document.
 - Only teach half days.
 - Avoid cognitive overload by slowing down and including more "meta talk".
 - Use icebreaker questions for general introductions and to encourage active participation.
-- Learners introduce themselves in groups using breakout rooms.
+- Let learners introduce themselves in groups using breakout rooms.
 - Use shared workshop document for questions and answers and to signal problems.
-- Strongly recommend screen sharing and colloboration in breakout room exercises.
+- Strongly recommend screen sharing and collaboration in breakout room exercises.
 ```
 ````
 
@@ -67,7 +67,7 @@ aspects of teaching. It is important to plan and prepare these technical
 aspects before a workshop.
 
 - The learner has a *lot* more to think about than the instructor, so you need
-  to minimize the possible distractions and unnecessary weirdness.
+  to minimize possible distractions and unnecessary weirdness.
 - A learner will often use only one small screen, limiting the number of
   things that they can focus on.
 - You are much faster than learners. You have to do things to slow yourself down.
@@ -76,7 +76,7 @@ aspects before a workshop.
 
 When doing any demonstration, there are difficulties:
 
-- If one misses something, you can't rewind to see it - is there any
+- If one misses something, you can't rewind to see it -- is there any
   way to catch up?
 - The learner must get oriented with the whole picture, while
   instructor knows precisely where to focus.
@@ -142,7 +142,7 @@ One way to set up your shell with light background, large font, simple prompt an
 - You should plan for learners with only one small screen.
 - A learner will **need to focus on both your screen share and their
   work**.
-- Sharing your a whole screen is probably a bad idea if you want
+- Sharing your entire screen is probably a bad idea if you want
   the learners to do anything at the same time.
 - If you constrict yourself, then your experience is more similar to
   that of a learner.
@@ -176,14 +176,14 @@ Example of how the instructor can arrange windows. Zoom is sharing a portion on 
 ### Shared workshop document
 
 Questions and frequent feedback is very important for interactive workshops,
-but questions in the main room doesn't scale to large rooms. Also, it's likely 
-that only a few (extrovert) participants will do most of the talking while others 
+but questions in the main room don't scale to large rooms. Also, it's likely 
+that only a few (extroverted) participants will do most of the talking while others 
 will not feel as comfortable speaking up.
 
 A strategy shared by the Carpentries, CodeRefinery and ENCCS is to use a shared workshop 
 document where learners can ask questions on the fly. The document can also be used to 
 collect all relevant information for a workshop, including links to material and technical 
-instructions, as well as for formative assessment questions and to take notes from group work.
+instructions, as well as for formative assessment questions and notes from group work.
 Out of many possible platforms, ENCCS uses [HackMD](https://hackmd.io/).
 
 Some features of HackMD and how it compares to other modes of communication:
@@ -195,7 +195,7 @@ Some features of HackMD and how it compares to other modes of communication:
 - Learners don't have to worry about interrupting the flow.
 - The document stays online and can be revisited by learners to remind themselves of valuable Q&A
   and discussions.
-- Disadvantage: can produce cognitive overload, warn people to not follow too closely.
+- Disadvantage: can produce cognitive overload, warn people to not follow it too closely.
 - With too few people, it can turn out to be very quiet.
 - Example: [https://hackmd.io/@enccs/dl-intro-feb2022](https://hackmd.io/@enccs/dl-intro-feb2022)
 
@@ -217,15 +217,15 @@ Some strategies for icebreaker questions:
 
 ## Team teaching
 
-Demonstration-based teaching require two different types of focus:
+Demonstration-based teaching requires two different types of focus:
 
-- Doing the mechanical steps as a demonstration
-- Explaining why you are doing it
+- Doing the mechanical steps as a demonstration;
+- Explaining why you are doing it.
 
 This is a lot for one person to keep in mind, so can multiple people
 work together for this? Team teaching idea:
-- One person is doing the demonstrations
-- One person is giving the commentary about what they are doing
+- One person is doing the demonstrations.
+- One person is giving the commentary about what is done or what is seen.
 - The lecture becomes a discussion between two people instead.
 
 ```{callout} Co-teaching
@@ -242,21 +242,21 @@ Advantages:
 - The course seems very interactive, much more so than expecting
   students to speak up.  The co-teacher can take on the "voice of the
   audience".
-- Quicker preparation time since co-teachers can rely on each other in
+- Shorter preparation time since co-teachers can rely on each other in
   unexpected situations.
 - One co-teacher can be effectively learning at the same time and thus
   acting as the "voice of the audience" in another way.
-- Great way to onboard new instructors - extensive training and
-  preparation no longer needed.
-- More active minds means better able to watch and react to other
+- Great way to onboard new instructors -- extensive training and
+  preparation less needed.
+- More active minds means better ability to watch and react to other
   feedback, such as HackMD or chat.
-- Less workload - one person does not have to prepare perfectly, any
+- Less workload -- one person does not have to prepare perfectly, any
   uncertainty can usually be quickly answered by the other.
 
-Disadvantage:
-- Requires two people's time
-- Requires coordination when preparing (slows you down in preparation)
-- Unfamiliar concept to most people
+Disadvantages:
+- Requires two people's time.
+- Requires coordination when preparing (slows down preparation somewhat).
+- Unfamiliar concept to most people.
 
 ### Strategies
 
@@ -265,11 +265,11 @@ lesson, and there are many things between these:
 
 - One person gives lectures, one does the typing during demos.
 - "Interview": One primarily doing the "teaching", one guiding by
-  asking questions - either as an interviewer or as a virtual learner.
+  asking questions, either as an interviewer or as a virtual learner.
 
-Things that don't work (are not team teaching):
+Things that don't work (are **not** team teaching):
 
-- Dividing up a lesson into parts, each person gives different parts
+- Dividing up a lesson into parts, where each person gives different parts
   independently.
 
 ---
@@ -309,11 +309,11 @@ workshop together, making the workshop feel more cohesive, inclusive, meaningful
 
 ## See also
 
-- [Instructor introduction](https://coderefinery.github.io/manuals/instructor-intro/) -
+- [Instructor introduction](https://coderefinery.github.io/manuals/instructor-intro/); 
   has a lot of tips for new instructors, but also more things about the workshop.
 - [Instructor tech setup](https://coderefinery.github.io/manuals/instructor-tech-setup/)
 - [Lesson preparation hints](https://coderefinery.github.io/manuals/presenting/) (more focused on in-person)
-- [HackMD mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/) and [HackMD helpers](https://coderefinery.github.io/manuals/hackmd-helper/).  
+- [HackMD mechanics](https://coderefinery.github.io/manuals/hackmd-mechanics/) and [HackMD helpers](https://coderefinery.github.io/manuals/hackmd-helper/)
 - [Team teaching](https://coderefinery.github.io/manuals/team-teaching/)
 
 
