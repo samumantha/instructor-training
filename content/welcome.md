@@ -67,10 +67,9 @@ Finally, if you notice something that prevents you from learning as well as you 
 ## Ice-breaker
 
 ```{challenge} Ice-breaker in groups (10 minutes)
-- Share your approach to teaching and your teaching philosophy with your group.
-- Please share your tricks and solutions in the live document for others.
+- Share your approach to teaching and/or your teaching philosophy with your group.
+- If your approach uses specific tricks and solutions, please share them in the live document for others.
 
 Additional ice-breaker questions:
 - What is your motivation for taking this training?
-- How structured or informal are your own teaching needs?
 ```
