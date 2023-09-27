@@ -54,7 +54,7 @@ of other continents.
 
 ![Mental Models](img/mental_models.png)
 
-We can distinguish between a *novice* and a *competent practitioner* for a given domain based 
+We can distinguish between a *novice* and a *competent practitioner* (and an *expert*!) for a given domain based 
 on the complexity of their mental models.
 
 - **A *novice*** has a minimal mental model of surface features of the domain. Inaccuracies based on limited prior knowledge may interfere with adding new information. Predictions are likely to borrow heavily from mental models of other domains which seem superficially similar. One sign that someone is a novice is that their questions are "[not even wrong](https://en.wikipedia.org/wiki/Not_even_wrong)".
@@ -136,7 +136,7 @@ Describe a misconception you have encountered as a teacher or as a learner.
 
 ## Expertise and teaching
 
-Expertise is more than just knowing more facts - an expert's mental models are also much more densely connected as we saw above. Having a greater connectivity of a mental model allows experts to:
+Expertise is more than just knowing more facts - an expert's mental models are also much more densely connected (as we saw above). Having a greater connectivity of a mental model allows experts to:
 
 - See connections between two topics or ideas that no one else can see.
 - See a single problem in several different ways.
