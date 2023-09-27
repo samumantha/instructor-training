@@ -30,6 +30,7 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 ### Deciding what to teach
 
 ```{figure} https://carpentries.github.io/instructor-training/fig/what-to-teach.png
+:width: 60%
 ```
 
 
