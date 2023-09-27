@@ -22,12 +22,12 @@ as described in Wiggins and McTighe’s
 [Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025),
 that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
 
-- Determine your learning objectives
-- Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence
+- Determine your learning objectives.
+- Decide what constitutes evidence that objectives have been met, and design assessments to target that evidence.
 - Design instruction: Sort assessments in order of increasing complexity, 
-  and write content that connects everything together
+  and write content that connects everything together.
 
-### Deciding what to teach
+### Deciding what to teach: visual guide
 
 ```{figure} https://carpentries.github.io/instructor-training/fig/what-to-teach.png
 :width: 60%
@@ -87,8 +87,8 @@ Learning involves memory. For our purposes, human memory can be divided into two
 layers, **long-term** and  **short-term**. 
 Long-term memory, which we use to store persistent information, is essentially unbounded but is 
 slow to access. Short-term memory (also called working memory), which we use to actively think 
-about things is much faster but also much smaller. It has been estimated that the average 
-adult's short-term memory can hold 7±2 items for a few seconds before things started to drop out. 
+about things, is much faster but also much smaller. It has been estimated that the average 
+adult's short-term memory can hold 7±2 items for a few seconds before things start to drop out. 
 
 ```{figure} img/cognitive-architecture.png
 Figure adapted from [Teaching Tech Together](https://teachtogether.tech/en/index.html), licensed under [CC-BY-NC-4.0](https://creativecommons.org/licenses/by-nc/4.0/)
@@ -115,7 +115,7 @@ When designing lessons we can try to maximise memory retention through a number 
   things they have learned, strengthen connections between them, and consolidate long-term 
   memories. Asking learners for feedback can be an effective consolidating prompt as providing 
   feedback demands some reflection on what has been learned.
-- **Limit concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
+- **Counting new concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
   this can be hard! Planning your lesson with a concept map can help you not only identify key 
   concepts and relationships, but also to notice when you are trying to teach too many things at 
   once.
@@ -128,52 +128,50 @@ of the material. For learners, this feedback can help focus their study efforts.
 allows them to refocus their instruction to respond to challenges that learners are facing.
 Used continuously.
  
-*Summative assessment* is used
-to judge whether a learner has reached an acceptable level of competence.
-Usually at the end of a course 
-Learners either "pass" or "fail" a summative assessment.
+*Summative assessment* is used to judge whether a learner has reached an acceptable level of competence.
+Usually, at the end of a course learners either "pass" or "fail" a summative assessment.
 ```
 
 ---
 
 ## Designing formative assessment
 
-Well designed formative assessment tasks - i.e. quick questions and exercises - 
+Well designed formative assessment tasks -- i.e. quick questions and exercises -- 
 can go a long way towards correcting misconceptions and expanding the mental models of learners.
 
 Here are some suggestions to keep in mind when designing exercises:
 
 - Not every exercise has to be an amazing hand-on example. Mixing with smaller, more conceptual 
-  things can reduce cognitive load.
+  things can reduce [cognitive load](https://enccs.github.io/instructor-training/interactive-teaching/#cognitive-load).
 - Try to make your exercises relevant, meaningful and connected to previous knowledge. 
   Connect the exercises to the real world. When learners understand the meaning of new concepts 
   it will be easier for them to remember.
-- Create also more advanced exercises which can be optional for more advanced learners. This can go 
-  a long way to meet the needs of participants with a wide range of background knowledge. 
+- Create more involved exercises that can be optional for more advanced learners.
+  This is a way to meet the needs of participants with a wide range of background knowledge. 
 
 **Good exercises are the most important factor in a good lesson**. Even if you are preparing the rest of 
 the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
 cover" to "sequence of exercises".
 
-When you are stuck thinking "how can I make an exercise that covers X", think of the lists below 
+When you are stuck thinking "how can I make an exercise that covers X", look through the lists below for
 inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use 
 different types:
 
 **Types of exercises**:
 
-- Multiple choice (easy to get feedback via a classroom tool - try to design each wrong answer so that it identifies a specific misconception).
-- Code yourself (traditional programming)
-- Code yourself + multiple choice to see what the answer is (allows you to get feedback)
-- Minimal fix (given broken code, make it work)
-- Parsons problems (working solution but lines in random order, learner must only put in proper order)
-- Fill in the blank, [faded problems](https://en.wikipedia.org/wiki/Worked-example_effect)
-- Tracing execution
-- Tracing values through code flow 
-- Reverse execution (find input that gives an output)
-- Theme and variations (working code, adapt to other type of situation/problem)
-- Refactoring
-- Draw a diagram
-- Label diagram
+- Multiple choice (easy to get feedback via a classroom tool; try to design each wrong answer so that it identifies a specific misconception).
+- Code yourself (traditional programming).
+- Code yourself + multiple choice to see what the answer is (allows you to get feedback).
+- Minimal fix (given broken code, make it work).
+- Parsons problems (working solution but lines in random order, learner must "only" put them in proper order).
+- Fill in the blank, [faded problems](https://en.wikipedia.org/wiki/Worked-example_effect).
+- Tracing execution.
+- Tracing values through code flow.
+- Reverse execution (find input that gives an output).
+- Theme and variations (working code, adapt to other type of situation/problem).
+- Refactoring.
+- Draw a diagram.
+- Label diagram.
 - Matching problem: two sets of Q/A, match them.
 
 
