@@ -115,7 +115,7 @@ When designing lessons we can try to maximise memory retention through a number 
   things they have learned, strengthen connections between them, and consolidate long-term 
   memories. Asking learners for feedback can be an effective consolidating prompt as providing 
   feedback demands some reflection on what has been learned.
-- **Counting new concepts**:  It is important to limit the number of concepts introduced in a lesson, but   
+- **Counting new concepts**:  It is important to limit the number of concepts introduced in a lesson, but
   this can be hard! Planning your lesson with a concept map can help you not only identify key 
   concepts and relationships, but also to notice when you are trying to teach too many things at 
   once.
