@@ -26,6 +26,7 @@ Challenges:
 Benefits:
 - More geographically inclusive.
 - No travel costs.
+- Less environmental impact.
 - Possible for learners and teachers to participate in larger number of events.
 - More natural format for collaborative teaching.
 - Easier to scale up.
@@ -185,6 +186,7 @@ document where learners can ask questions on the fly. The document can also be u
 collect all relevant information for a workshop, including links to material and technical 
 instructions, as well as for formative assessment questions and notes from group work.
 Out of many possible platforms, ENCCS uses [HackMD](https://hackmd.io/).
+If you're able to self-host a lightweight virtual machine, you might want to consider [HedgeDoc](https://hedgedoc.org/) instead.
 
 Some features of HackMD and how it compares to other modes of communication:
 - Chat is not good enough, you can't easily reply to old things and finding earlier information is difficult.
@@ -199,10 +201,8 @@ Some features of HackMD and how it compares to other modes of communication:
 - With too few people, it can turn out to be very quiet.
 - Example: [https://hackmd.io/@enccs/dl-intro-feb2022](https://hackmd.io/@enccs/dl-intro-feb2022)
 
-```{callout}
-If you're able to self-host a lightweight virtual machine, you might want to consider [HedgeDoc](https://hedgedoc.org/) instead.
-```
 
+---
 
 ### Breaking the ice
 A shared workshop document is useful to get learners engaged in a workshop from the start, 
