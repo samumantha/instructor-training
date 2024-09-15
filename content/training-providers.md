@@ -93,6 +93,12 @@ of machine learning methods.
 
 ---
 
+## CSC - IT Center for Science
+
+### CSC audience
+
+---
+
 ## Teaching philosophy
 
 ENCCS, CodeRefinery and The Carpentries all teach computational competences to learners through 
