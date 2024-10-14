@@ -176,6 +176,12 @@ different types:
 - Label diagram.
 - Matching problem: two sets of Q/A, match them.
 
+**Tip**:
+
+When designing exercises, consider that some participants will get stuck
+and may want to re-join at a later exercise. In other words it is nice
+if exercises build up on each other but not at the cost that if participants
+get stuck at exercise 2, they will not be able to do exercises 3 to N.
 
 
 ```{figure} img/conceptmap-assessment.png
@@ -225,11 +231,6 @@ This exercises assumes that you are teaching a technical topic like programming 
 - Present your example in a small group and let others in your team guess which level you intended 
   the example for!
 ```
-
-When designing exercises, consider that some participants will get stuck
-and may want to re-join at a later exercise. In other words it is nice
-if exercises build up on each other but not at the cost that if participants
-get stuck at exercise 2, they will not be able to do exercises 3 to N.
 
 ---
 
