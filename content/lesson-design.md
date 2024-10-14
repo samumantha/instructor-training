@@ -149,9 +149,11 @@ Here are some suggestions to keep in mind when designing exercises:
 - Create more involved exercises that can be optional for more advanced learners.
   This is a way to meet the needs of participants with a wide range of background knowledge. 
 
-**Good exercises are the most important factor in a good lesson**. Even if you are preparing the rest of 
+```{callout} Good exercises are the most important factor in a good lesson
+Even if you are preparing the rest of 
 the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
 cover" to "sequence of exercises".
+```
 
 When you are stuck thinking "how can I make an exercise that covers X", look through the lists below for
 inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use 
