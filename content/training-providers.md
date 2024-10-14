@@ -38,6 +38,20 @@ By showing learners how to solve specific problems with specific tools and provi
 > Carpentry learners can be qualified as **novices**: they do not know what they need to learn yet. A typical example is the usage of version control: the Carpentry `git` lesson aims to give a very high level conceptual overview of Git but it does not explain how it can be used in research projects.
 {: .callout}
 
+
+### Available lessons
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
+
+### HPC Carpentry
+
+WRITEME
+
 ---
 
 ## CodeRefinery
@@ -63,6 +77,15 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 > CodeRefinery learners can be qualified as **competent practitioners** because they already have an understanding of their needs.
 > *Novices* and *competent practitioners* will be more clearly defined in a {doc}`later section <learners>`.
 {: .callout}
+
+### Available lessons
+
+- []()
+- []()
+- []()
+- []()
+- []()
+- []()
 
 ---
 
@@ -91,66 +114,62 @@ to know what their needs are. Typically, their needs are to learn a technique or
 their code to HPC, to learn novel programming languages or frameworks, or to deepen their knowledge 
 of machine learning methods.
 
+### Available lessons
+
+> **For full overview, see [ENCCS lessons](http://enccs.se/lessons/)**.
+
+**GPU programming**
+
+- [OpenMP for GPU Offloading](https://enccs.github.io/openmp-gpu/miniapp/)
+- [OpenACC](https://enccs.github.io/openacc/)
+- [Intermediate CUDA](https://enccs.github.io/cuda/)
+- [SYCL](https://enccs.github.io/sycl-workshop/)
+- [GPU Programming: Why, When and How](https://enccs.github.io/gpu-programming/)
+- [Developing Applications with the AMD ROCm Ecosystem](https://enccs.github.io/amd-rocm-development/)
+
+**General HPC**
+
+- [Intermediate MPI](https://enccs.github.io/intermediate-mpi/)
+
+**Programming languages**
+
+- [High-performance Data Analytics with Python](https://enccs.github.io/hpda-python/)
+- [Julia for High Performance Scientific Computing](https://enccs.github.io/julia-for-hpc/)
+- [Julia for High Performance Data analytics](https://enccs.github.io/julia-for-hpda/)
+
+**AI/ML**
+
+- [Graph Neural Networks and Transformer](https://enccs.github.io/gnn-transformers/)
+
+**Applications**
+
+- [Gromacs GPU Performance](https://enccs.github.io/gromacs-gpu-performance/)
+- [VeloxChem: Quantum chemistry from laptop to HPC](https://enccs.github.io/veloxchem-workshop/)
+- [TREX: Targeting chemical accuracy with quantum Monte Carlo on LUMI](https://trex-coe.github.io/school-ncc-2023/index.html)
+- [MAX: Efficient materials modelling](https://enccs.github.io/efficient-materials-modelling-on-hpc/)
+- [VASP best practices](https://enccs.github.io/vasp-best-practices/)
+- [OpenFOAM](https://enccs.github.io/openfoam/)
+
+**Tools**
+
+- [CMake](https://enccs.github.io/cmake-workshop/)
+
+**Quantum computing**
+
+- [Introduction to Quantum Computing and hybrid HPC-QC systems](https://enccs.github.io/nordiquest-workshop/)
+
 ---
 
-## Teaching philosophy
+## Recommended external resources
 
-ENCCS, CodeRefinery and The Carpentries all teach computational competences to learners through 
-an applied approach founded on research-based teaching principles.
-Usually, we avoid the theoretical and general in favor of the practical and specific. By 
-showing learners how to solve specific problems with specific tools and providing hands-on 
-practice, we develop learners’ confidence and empower them to start applying new knowledge 
-immediately.
+The lessons above do not cover all relevant topics in HPC, HPDA and AI, but 
+ENCCS also maintains a list of recommended public training material which you 
+can find at [https://enccs.se/external-training-resources/](https://enccs.se/external-training-resources/).
 
-- Learners need to practice what they are learning in real time and get **feedback** on what they are doing. That is why the teaching approach relies on **live coding**.
-- Learners best learn in a respectful and motivating classroom environment, so it's important to use a **Code of Conduct** and avoid certain demotivating language. 
-- Learners are encouraged to **help each other and collaborate** during workshops as this improves their confidence and reinforces concepts taught.
-
-
-### Specific aspects 
-
-- Teaching material (lessons) available in advance and not PDF slides.
-- Lessons suitable also for self study.
-- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises.
-- Shared collaborative workshop document for questions, answers, information etc.
-- Clearly defined teaching roles (instructor, host, answering questions in shared document, ...)
-- Recruiting volunteer helpers and instructors.
-- Frequently asking for and encouraging feedback.
-- Emphasis on code of conduct and inclusivity.
-- Thoughtful screen sharing and shell sharing.
-- Lessons developed from well defined learning objectives.
-- Using a standard lesson template.
-- Collaborative lesson development and peer review on GitHub.
-- Lessons are open source instead of private.
-
-`````{challenge} How common are these practices?
-
-How many of the teaching features above do you use in your own teaching? 
-
-The instructor can copy-paste the list below to the shared workshop document and conduct a poll. 
-
-````{solution} Poll
+```{challenge} Contribute to the list of external training resources 
+**For after this workshop:**  
+If you know of other good public training material, or if you have developed own material 
+that you would like to share with the world, please [get in touch](https://enccs.se/contact/) or 
+[open an issue](https://github.com/ENCCS/instructor-training/issues) on this repository!
 ```
-Which of these practices do you use in your teaching? Vote by adding "o".
 
-- Teaching material (lessons) available in advance and not PDF slides: o
-- Lessons suitable also for self study: o
-- Interactive, hands-on teaching: presentations and type-alongs interleaved with exercises: o
-- Shared collaborative workshop document for questions, answers, information etc: o
-- Clearly defined teaching roles (instructor, host, answering questions in shared document, ...): o
-- Recruiting volunteer helpers and instructors: o
-- Frequently asking for and encouraging feedback: o
-- Emphasis on code of conduct and inclusivity: o
-- Thoughtful screen sharing and shell sharing: o
-- Lessons developed from well defined learning objectives: o
-- Using a standard lesson template: o
-- Collaborative lesson development and peer review on GitHub: o
-- Lessons are open source instead of private: o
-```
-````
-`````
-
-## See also
-
-- [Active learning increases student performance in
-science, engineering, and mathematics](https://www.pnas.org/doi/pdf/10.1073/pnas.1319030111)
