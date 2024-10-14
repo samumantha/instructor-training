@@ -26,7 +26,7 @@ through distinct stages through practice and formal instruction. In simplified f
 
 ![Novice, Competent Practitioner, Expert](img/skill-level.png)
 
-Participants in ENCCS workshops are usually *competent practitioners*. They already write 
+Participants in HPC training workshops are usually *competent practitioners*. They already write 
 code and know what additional tools or techniques they need to learn to accomplish their goals.
 
 As will be further discussed in the episode on [Lesson design](lesson-design.md), 

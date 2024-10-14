@@ -17,7 +17,7 @@
 
 ## Backwards lesson design
 
-When writing an ENCCS lesson, we take a “reverse” approach to instruction, 
+When composing new instructional material - lessons - we can take a “reverse” approach to instruction, 
 as described in Wiggins and McTighe’s 
 [Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025),
 that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
@@ -36,9 +36,9 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 
 ### Working with learning objectives
 
-ENCCS lessons usually have a *learning objectives* section.
+Lessons should have a clear *learning objectives* section.
 Good learning objectives are quite specific about the intended effect of a lesson on its learners.
-We aim to create learning objectives that are specific, accurate, and informative for 
+We should aim to create learning objectives that are specific, accurate, and informative for 
 both learners and instructors.
 
 In practice, it's best to start defining your target audience by answering to questions
@@ -54,7 +54,7 @@ providing concrete examples of potential learners showing up at your
 workshops. 
 
 - For each **learner persona**, try to think of what is **useful to them**. 
-- What do they **need** to remember/understand/apply/analyze/evaluate/create (see Bloom's taxonomy below).
+- What do they **need** to remember/understand/apply/analyse/evaluate/create (see Bloom's taxonomy below).
 - Then, you create a sequence of exercises which test incrementally
   progressing tasks and acquisition of the new skills.
 - Finally, you write material to teach the gap between exercises.
