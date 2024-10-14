@@ -64,6 +64,15 @@ Finally, if you notice something that prevents you from learning as well as you 
 
 ---
 
+## Zoom etiquette
+
+- Please change your Zoom username to show your full name
+- Please keep your camera on as much as possible
+- Try not to multitask - you and everyone else will have a better learning experience that way!
+
+
+---
+
 ## Ice-breaker
 
 ```{challenge} Ice-breaker in groups (10 minutes)
