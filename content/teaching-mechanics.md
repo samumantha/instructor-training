@@ -213,6 +213,13 @@ Some strategies for icebreaker questions:
 - Have breakout rooms in small groups to complete a small social task, multiple times with new groups.
 - Alternatively, start every day with an icebreaking activity in new breakout rooms to be used that day.
 
+```{challenge} How to break the ice?
+
+In breakout rooms or through shared workshop document, discuss how one can create an engaging and inclusive environment which increases learner motivation.
+
+Use your own past experiences, or brainstorm new methods.
+```
+
 ---
 
 ## Team teaching

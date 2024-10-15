@@ -59,7 +59,7 @@ After attending a workshop covering this material, learners should:
 
    welcome.md
    training-providers.md
-   available-lessons.md
+   learning-theories.md
    first-exercise.md
 
 .. toctree::

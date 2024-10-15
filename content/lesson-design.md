@@ -17,7 +17,7 @@
 
 ## Backwards lesson design
 
-When writing an ENCCS lesson, we take a “reverse” approach to instruction, 
+When composing new instructional material - lessons - we can take a “reverse” approach to instruction, 
 as described in Wiggins and McTighe’s 
 [Understanding by Design](http://www.worldcat.org/title/understanding-by-design/oclc/56491025),
 that keeps the focus firmly on learning outcomes. The order of preparation in this case becomes
@@ -36,9 +36,9 @@ that keeps the focus firmly on learning outcomes. The order of preparation in th
 
 ### Working with learning objectives
 
-ENCCS lessons usually have a *learning objectives* section.
+Lessons should have a clear *learning objectives* section.
 Good learning objectives are quite specific about the intended effect of a lesson on its learners.
-We aim to create learning objectives that are specific, accurate, and informative for 
+We should aim to create learning objectives that are specific, accurate, and informative for 
 both learners and instructors.
 
 In practice, it's best to start defining your target audience by answering to questions
@@ -54,7 +54,7 @@ providing concrete examples of potential learners showing up at your
 workshops. 
 
 - For each **learner persona**, try to think of what is **useful to them**. 
-- What do they **need** to remember/understand/apply/analyze/evaluate/create (see Bloom's taxonomy below).
+- What do they **need** to remember/understand/apply/analyse/evaluate/create (see Bloom's taxonomy below).
 - Then, you create a sequence of exercises which test incrementally
   progressing tasks and acquisition of the new skills.
 - Finally, you write material to teach the gap between exercises.
@@ -149,9 +149,11 @@ Here are some suggestions to keep in mind when designing exercises:
 - Create more involved exercises that can be optional for more advanced learners.
   This is a way to meet the needs of participants with a wide range of background knowledge. 
 
-**Good exercises are the most important factor in a good lesson**. Even if you are preparing the rest of 
+```{callout} Good exercises are the most important factor in a good lesson
+Even if you are preparing the rest of 
 the lesson mostly alone, consider a good long brainstorming session to go from "list of topics to 
 cover" to "sequence of exercises".
+```
 
 When you are stuck thinking "how can I make an exercise that covers X", look through the lists below for
 inspiration. Not every exercise has to be an sophisticated hands-on thing, so don’t be afraid to use 
@@ -174,6 +176,12 @@ different types:
 - Label diagram.
 - Matching problem: two sets of Q/A, match them.
 
+**Tip**:
+
+When designing exercises, consider that some participants will get stuck
+and may want to re-join at a later exercise. In other words it is nice
+if exercises build up on each other but not at the cost that if participants
+get stuck at exercise 2, they will not be able to do exercises 3 to N.
 
 
 ```{figure} img/conceptmap-assessment.png
@@ -223,11 +231,6 @@ This exercises assumes that you are teaching a technical topic like programming 
 - Present your example in a small group and let others in your team guess which level you intended 
   the example for!
 ```
-
-When designing exercises, consider that some participants will get stuck
-and may want to re-join at a later exercise. In other words it is nice
-if exercises build up on each other but not at the cost that if participants
-get stuck at exercise 2, they will not be able to do exercises 3 to N.
 
 ---
 
