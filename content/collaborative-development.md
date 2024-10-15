@@ -194,6 +194,48 @@ Here we will practice the forking workflow. **NOTE**: You will need a
 
 Bonus question: Why is it best practice to create a "feature" branch in your local repository?  
 ```
+
+```{tab} Forking workflow in the browser
+
+- Navigate to [this example repository on GitHub](https://github.com/ENCCS/example-repository)
+- Fork the repository to your own GitHub account by clicking the Fork button at the top.
+  ![fork-button](img/fork-button.png)
+  Make sure to fork the repository to your own namespace. Keep the original repository name.
+    ![fork-button](img/create-fork.png)
+
+---
+
+- After the fork has been created, click the "Add file" button and choose "Create new file".
+    ![add-file](img/add-file.png)
+
+---
+
+- Choose a filename, and add something interesting or fun to the file, for example a famous quote that you like.
+- After creating the file, click the "Commit changes" button.
+    ![commit-file](img/commit-file.png)
+
+- Write an informative commit message, select "Create a new branch...", and give your branch an informative name
+    ![commit-msg](img/commit-msg.png)
+
+---
+
+- Now go back to the main page of your repository, and you should see a yellow box inviting you to create a Pull Request
+    ![pull-request](img/pull-request.png)
+---
+
+- Make sure that you're opening the Pull Request from your local feature branch, to the central main branch, and click "Create pull request"
+    ![open-pull-request](img/open-pull-request.png)
+
+---
+
+- You have now created a pull request and a maintainer of the central repository 
+  can review your change, provide feedback 
+  if needed (e.g. to ask for changes), and then merge it into the main branch!
+
+Bonus question: Why is it best practice to create a "feature" branch in your local repository?  
+```
+
+
 ````
 `````
 

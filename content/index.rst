@@ -1,9 +1,9 @@
 Best Practices in HPC Training
 ==============================
 
-This ENCCS instructor training material is focused on helping competent practitioners
+This instructor training material is focused on helping competent practitioners
 and experts teach their knowledge to others. It also serves a
-kickstart to teaching ENCCS lessons.
+kickstart to teaching available ENCCS lessons.
 
 The material presented here is partly derived from two instructor training resources 
 developed in the `CodeRefinery project <https://coderefinery.org/>`__ as well as the instructor 
@@ -86,7 +86,6 @@ After attending a workshop covering this material, learners should:
 
    quick-reference
    guide
-   About ENCCS <https://enccs.se/>
    All ENCCS lessons <https://enccs.se/lessons/>
 
 
@@ -117,8 +116,8 @@ This course can be relevant for different learner personas:
   network for more co-teaching and to reduce the amount of duplication
   of effort.
 
-- **You are interested in teaching ENCCS lessons**, and would like a
-  comprehensive kick-start to how ENCCS workshops work, either to join us,
+- **You are interested in teaching ENCCS own lessons**, and would like a
+  comprehensive kick-start to how our workshops work -- either to join us,
   or teach our lessons with us or independently.
 
 
@@ -129,8 +128,7 @@ This course gives an introduction to
 
 * Science and philosophy of teaching.
 * How to teach interactive, hands-on workshops.
-* How to design interactive, hands-on lessons.
-* How ENCCS has taken the best advantage of online teaching.
+* How training providers take the best advantage of online teaching.
 * How ENCCS runs workshops.
 
 Credits
@@ -145,7 +143,7 @@ most of their license text.
 Instructional Material
 ^^^^^^^^^^^^^^^^^^^^^^
 
-All ENCCS instructional material is made available under the `Creative Commons
+All instructional material is made available under the `Creative Commons
 Attribution license (CC-BY-4.0)
 <https://creativecommons.org/licenses/by/4.0/>`_. The following is a
 human-readable summary of (and not a substitute for) the `full legal text of the
@@ -179,7 +177,7 @@ The licensor cannot revoke these freedoms as long as you follow these license te
 See also
 --------
 
-* `ENCCS lessons <https://enccs.se/lessons/>`__
+* `All ENCCS lessons <https://enccs.se/lessons/>`__
 * `CodeRefinery manuals <https://coderefinery.github.io/manuals/>`__
 * `Carpentries instructor training
   <https://carpentries.github.io/instructor-training/>`__ - more
