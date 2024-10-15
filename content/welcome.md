@@ -1,5 +1,6 @@
 ```{instructor-note}
-- 10 min teaching
+- 5 min teaching
+- 10 min icebreaker
 ```   
 
 # Welcome and Introduction
@@ -16,8 +17,7 @@
 
 - **Inspire teachers and staff who teach technical topics:** Use best practices, especially for online teaching.
 - **Promote collaboration in teaching**.
-- **Motivate new instructors** to take up our lessons, remix them, and to contribute.
-- **Get feedback** to improve the material as well as our collaboration model.
+- **Motivate new instructors** to take up open source lessons lessons, remix them, and to contribute.
 - **Catalyze and form new networks** and collaborations of teachers and trainers of
   practical scientific computing.
 
@@ -26,7 +26,9 @@
 
 > *Goal number one should be that we give participants the confidence to
 > independently apply the tools or knowledge learnt. This is more important
-> that giving a "complete" overview.* [Lucy Whalley gave this great comment at a CodeRefinery workshop]
+> that giving a "complete" overview.* 
+
+Lucy Whalley gave this great comment at a CodeRefinery workshop.
 
 
 ---
