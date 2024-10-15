@@ -12,11 +12,7 @@
 Adapted from the [Hotel Project](http://www.hotel-project.eu/sites/default/files/hotel/default/content-files/documentation/Learning-Theory.pdf), licensed under [CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)
 ```
 
-**WRITEME**
-Don’t worry if you can’t read the details, this is just to show that there isn’t a universal theory of learning. Different disciplines and approaches have different ways to organize observations about how we receive, process, and retain knowledge. And because there are multiple types of learning, it makes sense that multiple learning theories are relevant. If you want to explore these more later, follow the link at the bottom.
-So why are learning theories important? People naturally look for structure, ways to organize what they know. These theories work as a sort of GPS for education, helping us navigate the complex landscape of the human mind and showing us evidence-based routes to effective learning. We’ll cover a few of the central theories here and try to address their relevance to the classroom. 
-
-
+We don't have to worry about details in the infographic above, it's just to show that there’s no single theory of learning. Different disciplines organise how we process and retain knowledge in various ways, and with multiple types of learning, multiple theories are relevant. Learning theories help us structure what we know and guide us toward effective learning. This lesson focuses on a few key concepts that are easy to translate into concrete actions in a learning environment.
 
 
 ## What you will learn here
