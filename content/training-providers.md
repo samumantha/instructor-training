@@ -8,7 +8,7 @@
 ## The Carpentries
 
 ```{figure} img/TheCarpentries.png
-:width: 80%
+:width: 60%
 ```
 
 [The Carpentries](https://carpentries.org/) is an international project that comprises [Software Carpentry](https://software-carpentry.org/) and [Data Carpentry](https://datacarpentry.org/), 
@@ -41,23 +41,37 @@ By showing learners how to solve specific problems with specific tools and provi
 
 ### Available lessons
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [The Unix Shell](https://swcarpentry.github.io/shell-novice/)
+- [Version Control with Git](https://swcarpentry.github.io/git-novice/)
+- [Programming with Python](https://swcarpentry.github.io/python-novice-inflammation/)
+- [Plotting and Programming with Python](https://swcarpentry.github.io/python-novice-gapminder/)
+- [Programming with R](https://swcarpentry.github.io/r-novice-inflammation/)
+- [R for Reproducible Scientific Analysis](https://swcarpentry.github.io/r-novice-gapminder/)
+- [Additional lessons](https://software-carpentry.org/lessons/)
 
 ### HPC Carpentry
 
-WRITEME
+HPC Carpentry teaches HPC-oriented coding and data science skills to researchers and aims to bring High Performance Computing under the Carpentries umbrella. HPC Carpentry is a set of teaching materials designed to help new users take advantage of high-performance computing systems. No prior computational experience is required - these lessons are ideal for either an in-person workshop or independent study.
+
+**Available lessons**:
+
+- [Introduction to High-Performance Computing](https://carpentries-incubator.github.io/hpc-intro/)
+- [HPC Workflow Management with Snakemake](https://carpentries-incubator.github.io/hpc-workflows/)
+- [HPC Workflow Management with Maestro](https://carpentries-incubator.github.io/HPC-workflow-lesson-maestro/)
+
+### Data Carpentry
+
+[Data Carpentry](https://datacarpentry.org/) develops and teaches workshops on the fundamental data skills needed to conduct research with the mission to provide researchers with high-quality, domain-specific training covering the full lifecycle of data-driven research. Data Carpentry workshops are domain-specific, teaching researchers the skills most relevant to their domain and using examples from their type of work.
+
+- [Data Carpentry lessons](https://datacarpentry.org/lessons/)
+
 
 ---
 
 ## CodeRefinery
 
 ```{figure} img/logo-color-3d-cropped.png
-:width: 50%
+:width: 40%
 ```
 
 [CodeRefinery](https://coderefinery.org/) is a [Nordic e-Infrastructure Collaboration (NeIC)](https://neic.no/) project that started in October 2016.
@@ -80,23 +94,36 @@ CodeRefinery learners usually do not have a good overview of **best software pra
 
 ### Available lessons
 
-- []()
-- []()
-- []()
-- []()
-- []()
-- []()
+- [Introduction to version control](https://coderefinery.github.io/git-intro/)
+- [Collaborative distributed version control](https://coderefinery.github.io/git-collaborative/)
+- [Reproducible research - Preparing code to be usable by you and others in the future](https://coderefinery.github.io/reproducible-research/)
+- [Social coding and open software](https://coderefinery.github.io/social-coding/)
+- [How to document your research software](https://coderefinery.github.io/documentation/)
+- [Jupyter notebooks](https://coderefinery.github.io/jupyter/)
+- [Automated testing - Preventing yourself and others from breaking your functioning code](https://coderefinery.github.io/testing/)
+- [Modular code development - Making reusing parts of your code easier](https://coderefinery.github.io/modular-type-along/)
+- [Other lessons](https://coderefinery.org/lessons/)
+
+Many CodeRefinery contributors work at HPC centres, and several lessons on HPC have been developed:
+
+- [Real-life compute cluster workflows](https://coderefinery.github.io/TTT4HPC_resource_management/)
+- [Containers on HPC with Apptainer](https://coderefinery.github.io/hpc-containers/)
+- [Parallelization and workflows](https://coderefinery.github.io/TTT4HPC_parallel_workflows/)
 
 ---
 
 ## ENCCS
+
+```{figure} img/ENCCS_Logo_Horizontal_Colour.png
+:width: 40%
+```
 
 [ENCCS](https://enccs.se/) (EuroCC National Competence Center Sweden) is one of 33 
 nodes of the [EuroCC project](https://www.eurocc-access.eu/), which is funded by the 
 European High-Performance Computing Joint Undertaking (EuroHPC-JU). As an NCC, we act as the central point of contact for HPC and related technologies in Sweden.
 Our mission is to empower Swedish industry, academia and the public sector to leverage HPC, AI, and HPDA efficiently and effectively. 
 
-![ENCCS pillars](img/about_enccs.png)
+![ENCCS pillars](img/enccs_activities.png)
 
 Training is one of the main pillars of ENCCS' activities. We have developed a large amount of 
 public and open source [lesson material](https://enccs.se/lessons/) and have organised, taught or contributed to over 60 
