@@ -5,6 +5,8 @@
 
 # Training providers
 
+Many training providers offer free hands-on technical workshops to help researchers, engineers, and data scientists enhance their skills and productivity. This page highlights three projects that share a common teaching approach, covering topics from beginner-level programming to advanced HPC for experts.
+
 ## The Carpentries
 
 ```{figure} img/TheCarpentries.png
