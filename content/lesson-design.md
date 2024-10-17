@@ -132,6 +132,19 @@ Used continuously.
 Usually, at the end of a course learners either "pass" or "fail" a summative assessment.
 ```
 
+````{challenge} Reflection (3 minutes)
+What is one key goal of backwards lesson design?
+
+1. To focus on the sequence of exercises
+2. To prioritize what instructors want to teach
+3. To focus on what learners should achieve by the end of the lesson
+4. To use as much information as possible in a short time
+
+```{solution}
+The correct answer is *3. To focus on what learners should achieve by the end of the lesson*.
+```
+````
+
 ---
 
 ## Designing formative assessment

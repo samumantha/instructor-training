@@ -152,6 +152,19 @@ as the "expert blind spot" or the "expert awareness gap".
 
 The good news is that this impediment can be overcome by training! Experts can be highly effective as long as they **learn to identify and correct for their own expert awareness gaps**.
 
+````{challenge} Reflection (3 minutes)
+What role do mental models play in learning?
+
+1. They replace the need for formal assessments
+2. They help learners form structured understanding of new concepts based on prior knowledge
+3. They allow learners to memorize facts without needing to understand them
+4. They encourage learners to rely on intuition rather than structured knowledge
+
+```{solution}
+The correct answer is *2. They help learners form structured understanding of new concepts based on prior knowledge*.
+```
+````
+
 ```{keypoints}
 - People at different skill level have different connectivities of their mental models. 
 - Teachers can help learners integrate new knowledge by connecting it to previous knowledge, 
