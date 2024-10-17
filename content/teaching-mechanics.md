@@ -162,6 +162,13 @@ Vertical sharing:
 Example of vertical screen share with lesson material above and terminal below
 ```
 
+Vertical screen sharing is also very appropriate when Jupyter notebooks are used.
+
+```{figure} img/vertical-screenshare.png
+:width: 50%
+Example of vertical screen share with lesson material in a Jupyter notebook in JupyterLab
+```
+
 
 ```{figure} https://coderefinery.github.io/manuals/_images/learner-small.png
 :width: 80%
