@@ -149,8 +149,7 @@ One way to set up your shell with light background, large font, simple prompt an
   that of a learner.
 
 Vertical sharing:
-- CodeRefinery and ENCCS have recently started trialing a **vertical share**
-  system, where you share a vertical half of your screen.
+- **Vertical share** is when you share a vertical half of your screen.
 - This allows learners with one screen to display your screen
   side-by-side with their own applications.
 - Zoom provides a "Share a part of screen" that is good for this.
@@ -188,11 +187,11 @@ but questions in the main room don't scale to large rooms. Also, it's likely
 that only a few (extroverted) participants will do most of the talking while others 
 will not feel as comfortable speaking up.
 
-A strategy shared by the Carpentries, CodeRefinery and ENCCS is to use a shared workshop 
+A strategy shared by many instructors is to use a shared workshop 
 document where learners can ask questions on the fly. The document can also be used to 
 collect all relevant information for a workshop, including links to material and technical 
 instructions, as well as for formative assessment questions and notes from group work.
-Out of many possible platforms, ENCCS uses [HackMD](https://hackmd.io/).
+Out of many possible platforms, [HackMD](https://hackmd.io/) is one which has a free tier, is based on Markdown, and supports a large number of simultaneous users.
 If you're able to self-host a lightweight virtual machine, you might want to consider [HedgeDoc](https://hedgedoc.org/) instead.
 
 Some features of HackMD and how it compares to other modes of communication:
@@ -200,6 +199,7 @@ Some features of HackMD and how it compares to other modes of communication:
 - HackMD allows threaded replies and follow up later.
 - You need some other instructors/helpers to watch HackMD and provide answers, bring
   relevant questions to your attention, and let you know how things are going.
+- The HackMD Markdown syntax allows various visual elements as well as code blocks with syntax highligthing.
 - Learners can ask anonymously.
 - Learners don't have to worry about interrupting the flow.
 - The document stays online and can be revisited by learners to remind themselves of valuable Q&A
@@ -220,7 +220,7 @@ Some strategies for icebreaker questions:
 - Have breakout rooms in small groups to complete a small social task, multiple times with new groups.
 - Alternatively, start every day with an icebreaking activity in new breakout rooms to be used that day.
 
-```{challenge} How to break the ice?
+```{challenge} How to break the ice? (5 minutes)
 
 In breakout rooms or through shared workshop document, discuss how one can create an engaging and inclusive environment which increases learner motivation.
 
@@ -298,22 +298,22 @@ meetings, planning sessions, or training, and successfully achieving a specific 
 Since training workshops are often delivered by multiple trainers, exercise leaders and helpers, it can be 
 extremely valuable to have a *workshop host* who engages in facilitation activities throughout the workshop.
 This can include:
-- Providing a general introduction, welcome and description of the code of conduct at the beginning - setting the stage for a successful workshop.
-- Introduce all trainers and other contributors.
-- Introduce an ice-breaking activity to engage participants and establish a friendly and collaborative environment.
-- Give framing at the start of each section of the workshop and hand over the word to the relevant trainer.
-- Be observant to raised hands or other reactions in the audience, potential technical issues (poor audio, too small font size) and be prepared to jump in to raise issues to the trainer or invite questions.
-- Pay attention to the pace and quality of the training, and be prepared to ask for improvements in a welcoming way:
+- **Providing a general introduction**, welcome and description of the code of conduct at the beginning - setting the stage for a successful workshop.
+- **Introduce all instructors** and other contributors.
+- **Introduce an ice-breaking activity** to engage participants and establish a friendly and collaborative environment.
+- **Give framing at the start of each section** of the workshop and hand over the word to the relevant trainer.
+- **Be observant to raised hands** or other reactions in the audience, potential technical issues (poor audio, too small font size) and be prepared to jump in to raise issues to the trainer or invite questions.
+- **Pay attention to the pace and quality of the training**, and be prepared to ask for improvements in a welcoming way:
   - "I think this section was probably very complicated for most of our participants, would you mind going back and explaining again how you did X?"
   - "Sorry for interrupting, but this might be going too fast for those of us with limited background knowledge on this topic. Could you go a little slower?"
-- Make sure that there is at least a 10 minute break every hour. Encourage participants to stand up, stretch their legs, grab some water or hot drink.
-- Update shared workshop document with information about the structure of the workshop - add instructions for exercises and how long they'll last, how long the breaks last, add headings from training material to remind learners where we are, etc.
-- Make sure that questions in shared workshop document are answered, either by text by trainers not currently teaching, or by interrupting the trainer. 
-- Give frequent "meta talk" in between sessions to help learners connect the teaching with the workshop structure.
-- Be the voice of the audience - pointing out when something was difficult, when something didn't work well, what a commonly encountered challenge might be etc.
-- Moderate discussions, tactfully interrupting dialogues that become too advanced or off-topic, and make sure that everyone gets heard. 
-- Invite and encourage questions, asking questions oneself to lower the barrier (but don't ask advanced questions!).
-- Invite anonymous feedback in the shared workshop document.
+- **Make sure that there is at least a 10 minute break every hour**. Encourage participants to stand up, stretch their legs, grab some water or hot drink.
+- **Update shared workshop document** with information about the structure of the workshop - add instructions for exercises and how long they'll last, how long the breaks last, add headings from training material to remind learners where we are, etc.
+- **Make sure that questions in shared workshop document are answered**, either by text by trainers not currently teaching, or by interrupting the trainer. 
+- **Give frequent "meta talk"** in between sessions to help learners connect the teaching with the workshop structure.
+- **Be the voice of the audience** - pointing out when something was difficult, when something didn't work well, what a commonly encountered challenge might be etc.
+- **Moderate discussions**, tactfully interrupting dialogues that become too advanced or off-topic, and make sure that everyone gets heard. 
+- **Invite and encourage questions**, asking questions oneself to lower the barrier (but don't ask advanced questions!).
+- **Invite anonymous feedback** in the shared workshop document.
 
 Workshop hosts engaging in these facilitation activities can thus provide the glue to tie all components of a 
 workshop together, making the workshop feel more cohesive, inclusive, meaningful and enjoyable.
